@@ -1,0 +1,8 @@
+__pycache__/
+mynevi/
+
+.git
+
+pycache__/*.pyc
+*.log
+*.tmp
