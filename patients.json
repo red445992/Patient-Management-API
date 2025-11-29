@@ -9,16 +9,6 @@
         "bmi": 23.53,
         "verdict": "Normal weight"
     },
-    "p2": {
-        "name": "Sita Rana",
-        "city": "Pokhara",
-        "age": 28,
-        "gender": "Female",
-        "height": 160,
-        "weight": 72,
-        "bmi": 28.12,
-        "verdict": "Overweight"
-    },
     "p3": {
         "name": "Anil Karki",
         "city": "Lalitpur",
