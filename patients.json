@@ -1,13 +1,13 @@
 {
     "p1": {
-        "name": "Ramesh Shrestha",
-        "city": "Kathmandu",
+        "name": "aditya",
         "age": 34,
+        "height": 170.0,
+        "weight": 68.0,
+        "city": "Kathmandu",
         "gender": "Male",
-        "height": 170,
-        "weight": 68,
         "bmi": 23.53,
-        "verdict": "Normal"
+        "verdict": "Normal weight"
     },
     "p2": {
         "name": "Sita Rana",
