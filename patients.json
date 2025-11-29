@@ -1,102 +1,112 @@
 {
-  "p1": {
-    "name": "Ramesh Shrestha",
-    "city": "Kathmandu",
-    "age": 34,
-    "gender": "Male",
-    "height": 170,
-    "weight": 68,
-    "bmi": 23.53,
-    "verdict": "Normal"
-  },
-  "p2": {
-    "name": "Sita Rana",
-    "city": "Pokhara",
-    "age": 28,
-    "gender": "Female",
-    "height": 160,
-    "weight": 72,
-    "bmi": 28.12,
-    "verdict": "Overweight"
-  },
-  "p3": {
-    "name": "Anil Karki",
-    "city": "Lalitpur",
-    "age": 42,
-    "gender": "Male",
-    "height": 175,
-    "weight": 90,
-    "bmi": 29.39,
-    "verdict": "Overweight"
-  },
-  "p4": {
-    "name": "Rekha Bhatta",
-    "city": "Dharan",
-    "age": 31,
-    "gender": "Female",
-    "height": 155,
-    "weight": 50,
-    "bmi": 20.81,
-    "verdict": "Normal"
-  },
-  "p5": {
-    "name": "Kamal Thapa",
-    "city": "Butwal",
-    "age": 50,
-    "gender": "Male",
-    "height": 168,
-    "weight": 82,
-    "bmi": 29.06,
-    "verdict": "Overweight"
-  },
-  "p6": {
-    "name": "Priya Maharjan",
-    "city": "Bhaktapur",
-    "age": 22,
-    "gender": "Female",
-    "height": 162,
-    "weight": 55,
-    "bmi": 20.96,
-    "verdict": "Normal"
-  },
-  "p7": {
-    "name": "Suresh Basnet",
-    "city": "Hetauda",
-    "age": 38,
-    "gender": "Male",
-    "height": 180,
-    "weight": 105,
-    "bmi": 32.41,
-    "verdict": "Obese"
-  },
-  "p8": {
-    "name": "Laxmi Gautam",
-    "city": "Biratnagar",
-    "age": 45,
-    "gender": "Female",
-    "height": 158,
-    "weight": 80,
-    "bmi": 32.04,
-    "verdict": "Obese"
-  },
-  "p9": {
-    "name": "Dipesh Neupane",
-    "city": "Chitwan",
-    "age": 29,
-    "gender": "Male",
-    "height": 172,
-    "weight": 60,
-    "bmi": 20.28,
-    "verdict": "Normal"
-  },
-  "p10": {
-    "name": "Manisha Khadka",
-    "city": "Nepalgunj",
-    "age": 33,
-    "gender": "Female",
-    "height": 165,
-    "weight": 95,
-    "bmi": 34.89,
-    "verdict": "Obese"
-  }
+    "p1": {
+        "name": "Ramesh Shrestha",
+        "city": "Kathmandu",
+        "age": 34,
+        "gender": "Male",
+        "height": 170,
+        "weight": 68,
+        "bmi": 23.53,
+        "verdict": "Normal"
+    },
+    "p2": {
+        "name": "Sita Rana",
+        "city": "Pokhara",
+        "age": 28,
+        "gender": "Female",
+        "height": 160,
+        "weight": 72,
+        "bmi": 28.12,
+        "verdict": "Overweight"
+    },
+    "p3": {
+        "name": "Anil Karki",
+        "city": "Lalitpur",
+        "age": 42,
+        "gender": "Male",
+        "height": 175,
+        "weight": 90,
+        "bmi": 29.39,
+        "verdict": "Overweight"
+    },
+    "p4": {
+        "name": "Rekha Bhatta",
+        "city": "Dharan",
+        "age": 31,
+        "gender": "Female",
+        "height": 155,
+        "weight": 50,
+        "bmi": 20.81,
+        "verdict": "Normal"
+    },
+    "p5": {
+        "name": "Kamal Thapa",
+        "city": "Butwal",
+        "age": 50,
+        "gender": "Male",
+        "height": 168,
+        "weight": 82,
+        "bmi": 29.06,
+        "verdict": "Overweight"
+    },
+    "p6": {
+        "name": "Priya Maharjan",
+        "city": "Bhaktapur",
+        "age": 22,
+        "gender": "Female",
+        "height": 162,
+        "weight": 55,
+        "bmi": 20.96,
+        "verdict": "Normal"
+    },
+    "p7": {
+        "name": "Suresh Basnet",
+        "city": "Hetauda",
+        "age": 38,
+        "gender": "Male",
+        "height": 180,
+        "weight": 105,
+        "bmi": 32.41,
+        "verdict": "Obese"
+    },
+    "p8": {
+        "name": "Laxmi Gautam",
+        "city": "Biratnagar",
+        "age": 45,
+        "gender": "Female",
+        "height": 158,
+        "weight": 80,
+        "bmi": 32.04,
+        "verdict": "Obese"
+    },
+    "p9": {
+        "name": "Dipesh Neupane",
+        "city": "Chitwan",
+        "age": 29,
+        "gender": "Male",
+        "height": 172,
+        "weight": 60,
+        "bmi": 20.28,
+        "verdict": "Normal"
+    },
+    "p10": {
+        "name": "Manisha Khadka",
+        "city": "Nepalgunj",
+        "age": 33,
+        "gender": "Female",
+        "height": 165,
+        "weight": 95,
+        "bmi": 34.89,
+        "verdict": "Obese"
+    },
+    "p13": {
+        "name": "Nischal",
+        "age": 21,
+        "height": 6.0,
+        "weight": 25.0,
+        "city": "kathmandu",
+        "gender": "male",
+        "bmi": 6944.44,
+        "verdict": "Obesity"
+    }
 }
